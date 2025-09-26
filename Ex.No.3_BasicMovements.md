@@ -60,6 +60,8 @@ public class TransformOperations : MonoBehaviour
 
 <img width="829" height="503" alt="419407730-2f0e583b-5296-4d78-88c5-caf39f6babff" src="https://github.com/user-attachments/assets/e1d7a500-7fd7-4aa5-a4d9-040c0f5047ed" />
 
+<img width="830" height="458" alt="419407846-34971d61-6f04-4e87-a206-3bd2308fc45b" src="https://github.com/user-attachments/assets/5aab25c7-6f12-4cda-a18e-9c53fa50315b" />
+
 
 ### Result:
 Thus the basic movement is learned through scripting
