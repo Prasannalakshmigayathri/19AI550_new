@@ -104,9 +104,6 @@ public class SpikeScript : MonoBehaviour
 ```
 
 ### Output:
-
-<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/6ee67460-8aa8-4475-9261-5b7063f7ece9" />
-
 <img width="1919" height="1056" alt="image" src="https://github.com/user-attachments/assets/f107f4b3-bc14-4617-ae1e-f8ca7cc34b80" />
 
 
