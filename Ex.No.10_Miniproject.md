@@ -1,4 +1,4 @@
-# Ex.No: 10  Implementation of 2D/3D game -------------------
+# Ex.No: 10  Implementation of 2D/3D game - Obstacles Game
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222240075
 ### AIM: 
